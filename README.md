@@ -13,7 +13,7 @@ slf4j + log4j 在Java Web程序中应用的简单示例
 代码说明
 --------
 
-* log4j配置示例：[src/main/resources/log4j.xml](src/main/resources/log4j.xml)
+* log4j配置示例：[src/main/resources/log4j.xml（输出日志到控制台，输出日志到文本并按日期归档.gz压缩）](src/main/resources/log4j.xml)
 * JAVA使用示例：[src/main/java/MyProjects/App.java](src/main/java/MyProjects/App.java)
 
 
@@ -37,3 +37,4 @@ WARN  App - I'm a warn message
 * <http://blog.johnnyathome.com/?p=53>
 * <http://wiki.apache.org/logging-log4j/Log4jXmlFormat>
 * <http://www.mkyong.com/hibernate/how-to-configure-log4j-in-hibernate-project>
+* <http://stackoverflow.com/questions/13171933/weblogic-log4j-rolling-appender>
