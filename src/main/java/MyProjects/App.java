@@ -14,7 +14,7 @@ public class App {
 		logger.debug("I'm a debug message");
 		logger.error("I'm a error message");
 		logger.warn("I'm a warn message");
-		jj
+		
 
 	}
 
